@@ -1,0 +1,22 @@
+div.top-header.container-fluid.no-padding div.container p span.reg-link a{
+    text-transform: lowercase;
+    color: rgb(189, 148, 192);
+}
+
+div.top-header.container-fluid.no-padding div.container p span.reg-link a.acceso{
+    text-transform: uppercase;
+}
+
+div.container-fluid.no-padding.menu-block{
+    background: rgb(15, 14, 12);
+    opacity: 0.8;
+    color: #fff;
+}
+
+.menu-block .ow-navigation.navbar-default .navbar-nav > li > a {
+    color: rgb(103, 103, 103);
+}
+
+header{
+    background: #fff;
+}
